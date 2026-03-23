@@ -1,0 +1,76 @@
+{
+    "personal": {
+        "name": "KILLIAN LE",
+        "title": "Front end Developer",
+        "tagline": "I build digital experiences that live on the edge of design & code.",
+        "location": "Da Nang, Vietnam",
+        "email": "chungle924@gmail.com",
+        "github": "https://github.com/lechung29",
+        "avatar": "CHUNG",
+        "available": true
+    },
+    "skills": [
+        {
+            "category": "Frontend",
+            "icon": "◈",
+            "color": "#00fff7",
+            "items": [
+                { "name": "React", "level": 80 },
+                { "name": "TypeScript", "level": 70 },
+                { "name": "Javascript", "level": 75 },
+                { "name": "Redux Toolkit", "level": 85 },
+                { "name": "Zustand", "level": 60 },
+                { "name": "Tailwind CSS", "level": 75 },
+                { "name": "Framer Motion", "level": 50 },
+                { "name": "Axios", "level": 68 }
+            ]
+        },
+        {
+            "category": "Backend",
+            "icon": "◉",
+            "color": "#ff00c8",
+            "items": [
+                { "name": "Node.js", "level": 70 },
+                { "name": "ExpressJS", "level": 80 },
+                { "name": "MongoDB", "level": 70 }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "name": "Lamine Sport E-commerce Shop",
+            "description": "Developed a personal sport e-commerce website that allows users to browse, search, and purchase sports products. The project demonstrates real-world UI/UX ows, component reusability, and responsive design.",
+            "tags": ["ReactJs", "Framer Motion", "Redux Toolkit", "Typescript", "ExpressJs", "MongoDB", "Axios", "AntDesign", "Tailwind CSS", "JWT", "Nodemailer", "Google OAuth"],
+            "color": "#00fff7",
+            "year": "2025",
+            "status": "LIVE",
+            "github": "https://github.com/lechung29/lamine-sport",
+            "live": "https://lamine-sport.vercel.app/",
+            "metrics": { "users": "1K+", "uptime": "99.9%", "stars": "1K" }
+        },
+        {
+            "id": 2,
+            "name": "Craft UI - UI Component Library",
+            "description": "Craft UI - A community platform for building and sharing reusable UI components. Features a browser-based code editor with live preview, component publishing, favorites system, and a points-based reputation system. Built with React, Node.js, Express, and MongoDB.",
+            "tags": ["ReactJs", "Framer Motion", "Zustand", "Typescript", "ExpressJs", "MongoDB", "Axios", "Tailwind CSS", "JWT", "Nodemailer", "Google OAuth"],
+            "color": "#ff00c8",
+            "year": "2026",
+            "status": "LIVE",
+            "github": "https://github.com/lechung29/craftUI",
+            "live": "https://craft-ui-phi.vercel.app/",
+            "metrics": { "requests": "1K/day", "latency": "12ms", "stars": "1K" }
+        }
+    ],
+    "experience": [
+        {
+            "year": "12/2023 — NOW",
+            "role": "Junior Front End Developer",
+            "company": "Avepoint",
+            "type": "Full-time",
+            "description": "Contributed to the development of a workow automation product designed to streamline large-scale provisioning of M365 Groups, Microsoft Teams, Viva Engage, Site Collections, Power BI, Power Apps, and other services based on predened congurations.",
+            "tech": ["React", "Node.js", "Redux", "FluentUI"],
+            "color": "#00fff7"
+        }
+    ]
+}
