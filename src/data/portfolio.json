@@ -16,6 +16,7 @@
             "color": "#00fff7",
             "items": [
                 { "name": "React", "level": 80 },
+                { "name": "NextJs", level: 70 }
                 { "name": "TypeScript", "level": 70 },
                 { "name": "Javascript", "level": 75 },
                 { "name": "Redux Toolkit", "level": 85 },
@@ -60,6 +61,18 @@
             "github": "https://github.com/lechung29/craftUI",
             "live": "https://craft-ui-phi.vercel.app/",
             "metrics": { "requests": "1K/day", "latency": "12ms", "stars": "1K" }
+        },
+        {
+            "id": 3,
+            "name": "Linkup = Meeting website",
+            "description": "Linkup - A real-time meeting and collaboration platform featuring video/audio calls, screen sharing, remote control capabilities. Includes live cursor synchronization, role-based control permissions, and seamless peer interaction. Built with NextJs, LiveKit, Node.js, and Socket.IO.",
+            "tags": ["NextJs", "Framer Motion", "Zustand", "Typescript", "MongoDB", "Tailwind CSS", "LiveKit"],
+            "color": "#ffd700",
+            "year": "2026",
+            "status": "LIVE",
+            "github": "https://github.com/lechung29/linkup",
+            "live": "https://linkup-idsn.onrender.com/",
+            "metrics": {"usage": 100 hours/month}
         }
     ],
     "experience": [
