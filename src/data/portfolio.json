@@ -16,7 +16,7 @@
             "color": "#00fff7",
             "items": [
                 { "name": "React", "level": 80 },
-                { "name": "NextJs", level: 70 }
+                { "name": "NextJs", "level": 70 }
                 { "name": "TypeScript", "level": 70 },
                 { "name": "Javascript", "level": 75 },
                 { "name": "Redux Toolkit", "level": 85 },
