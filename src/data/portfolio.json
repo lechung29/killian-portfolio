@@ -23,7 +23,8 @@
                 { "name": "Zustand", "level": 60 },
                 { "name": "Tailwind CSS", "level": 75 },
                 { "name": "Framer Motion", "level": 50 },
-                { "name": "Axios", "level": 68 }
+                { "name": "Axios", "level": 68 },
+                { "name": "Socket.io", "level": 60 }
             ]
         },
         {
@@ -65,14 +66,14 @@
         {
             "id": 3,
             "name": "Linkup = Meeting website",
-            "description": "Linkup - A real-time meeting and collaboration platform featuring video/audio calls, screen sharing, remote control capabilities. Includes live cursor synchronization, role-based control permissions, and seamless peer interaction. Built with NextJs, LiveKit, Node.js, and Socket.IO.",
-            "tags": ["NextJs", "Framer Motion", "Zustand", "Typescript", "MongoDB", "Tailwind CSS", "LiveKit"],
+            "description": " Linkup - A real-time collaboration platform that allows users to share their screens and request remote control in a secure, interactive session. It supports live room-based communication, permission-based control flow, and seamless real-time synchronization.",
+            "tags": ["NextJs", "Framer Motion", "Zustand", "Typescript", "MongoDB", "Tailwind CSS", "LiveKit", "Socket.io", "NextAuth"],
             "color": "#ffd700",
             "year": "2026",
             "status": "LIVE",
             "github": "https://github.com/lechung29/linkup",
             "live": "https://linkup-idsn.onrender.com/",
-            "metrics": {"usage": "100 hours/month"}
+            "metrics": { "usage": "100 hours/month" }
         }
     ],
     "experience": [
